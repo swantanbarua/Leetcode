@@ -30,13 +30,14 @@ Every problem folder contains:
 
 | Language | Folder | Solved |
 |---|---|---|
-| Swift | [`Swift/`](Swift/) | 1 |
+| Swift | [`Swift/`](Swift/) | 2 |
 
 ## Solved
 
 | # | Problem | Difficulty | Topic | Solutions |
 |---|---------|-----------|-------|-----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Hash Map | [Swift](Swift/1-Two-Sum/) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List | [Swift](Swift/2-Add-Two-Numbers/) |
 
 ## Running a solution locally
 
