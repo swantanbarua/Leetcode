@@ -30,7 +30,7 @@ Every problem folder contains:
 
 | Language | Folder | Solved |
 |---|---|---|
-| Swift | [`Swift/`](Swift/) | 3 |
+| Swift | [`Swift/`](Swift/) | 4 |
 
 ## Solved
 
@@ -39,6 +39,7 @@ Every problem folder contains:
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Hash Map | [Swift](Swift/1-Two-Sum/) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | Linked List | [Swift](Swift/2-Add-Two-Numbers/) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Sliding Window | [Swift](Swift/3-Longest-Substring-Without-Repeating-Characters/) |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Binary Search | [Swift](Swift/4-Median-of-Two-Sorted-Arrays/) |
 
 ## Running a solution locally
 
