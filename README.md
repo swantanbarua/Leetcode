@@ -30,7 +30,7 @@ Every problem folder contains:
 
 | Language | Folder | Solved |
 |---|---|---|
-| Swift | [`Swift/`](Swift/) | 5 |
+| Swift | [`Swift/`](Swift/) | 6 |
 
 ## Solved
 
@@ -41,6 +41,7 @@ Every problem folder contains:
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Sliding Window | [Swift](Swift/3-Longest-Substring-Without-Repeating-Characters/) |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Binary Search | [Swift](Swift/4-Median-of-Two-Sorted-Arrays/) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers | [Swift](Swift/5-Longest-Palindromic-Substring/) |
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | String Simulation | [Swift](Swift/6-Zigzag-Conversion/) |
 
 ## Running a solution locally
 
