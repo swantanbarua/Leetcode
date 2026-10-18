@@ -30,7 +30,7 @@ Every problem folder contains:
 
 | Language | Folder | Solved |
 |---|---|---|
-| Swift | [`Swift/`](Swift/) | 6 |
+| Swift | [`Swift/`](Swift/) | 7 |
 
 ## Solved
 
@@ -42,6 +42,7 @@ Every problem folder contains:
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | Binary Search | [Swift](Swift/4-Median-of-Two-Sorted-Arrays/) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers | [Swift](Swift/5-Longest-Palindromic-Substring/) |
 | 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | String Simulation | [Swift](Swift/6-Zigzag-Conversion/) |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | Math | [Swift](Swift/7-Reverse-Integer/) |
 
 ## Running a solution locally
 
